@@ -1,4 +1,6 @@
-# vuetify-notifications-demo
+# vuetify-notification-snackbar-demo
+
+This is a small demonstration of how to build a notification engine for a vue application using vuetify snackbar and vuex.
 
 ## Project setup
 ```
